@@ -1,0 +1,56 @@
+#starting up turtle
+import turtle
+# open window
+wn = turtle.Screen
+# make turtle
+trudy = turtle.Turtle()
+
+##########################################
+#fill in turtle commands after this point#
+##########################################
+Trudy.shape("turtle")
+Trudy.color("blue")
+Trudy.pencolor("orange")
+Trudy.forward(10)
+Trudy.forward(40)
+Trudy.left(90)
+for i in range(4):
+	Trudy.forward(40)
+	Trudy.left(90)
+
+Trudy.right(90)
+Trudy.foward(10)
+Trudy.forward(10)
+Trudy.penup()
+Trudy.forward(20)
+Trudy.pendown()
+Trudy.penup()
+Trudy.left(90)
+Trudy.forward(100)
+Trudy.forward(100)
+Trudy.pendown()
+for i in range (6):
+	Trudy.forward(6)
+	Trudy.right(60)
+
+for i in range(6):
+	Trudy.forward(60)
+	Trudy.right(60)
+
+Trudy.penup()
+Trudy.left(90)
+Trudy.forward(150)
+Trudy.pendown()
+for i in range(360):
+	Trudy.forward(10)
+	Trudy.left(1)
+
+for i in range(360):
+	Trudy.forward(1)
+	Trudy.left(1)
+
+###########################################
+#fill in turtle commands before this point#
+###########################################
+
+turtle.mainloop()

@@ -1,2 +1,2 @@
 # Trudy-Turtle
-Trudy the turtle
+Trudy the turtle in python

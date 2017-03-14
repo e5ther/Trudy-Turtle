@@ -1,0 +1,75 @@
+import turtle
+>>> wn = turtle.Screen
+>>> trudy.turtle.Turtle()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'trudy' is not defined
+>>> trudy= turtle.Turtle()
+>>> trudy.shape("turtle")
+>>> trudy.penup()
+>>> trudy.left(90)
+>>> trudy.forward(350)
+>>> trudy.forward(20)
+>>> trudy.left(90)
+>>> for i in range (360):
+...     
+  File "<stdin>", line 2
+    
+    ^
+IndentationError: expected an indented block
+>>> trudy.pencolor("red")
+>>> for i in range (360):
+...     trudy.forward(0.5)
+...     trudy.left(1)
+... 
+trudy.pendown()>>> trudy.pendown()
+>>> trudy.pendown()
+>>> for i in range (360):
+...     trudy.forward(0.5)
+...     trudy.left(1)
+... 
+trudy.pencolor("yellow")>>> trudy.pencolor("yellow")
+>>> for i in range (360):
+...     trudy.forward(1)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("orange")
+>>> for i in range (360):
+...     trudy.forward(1)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("yellow")
+>>> for i in range (360):
+...     trudy.forward(2)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("green")
+>>> for i in range (360):
+...     trudy.forward(3)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("cyan")
+>>> for i in range (360):
+...     trudy.forward(4)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("blue")
+>>> for i in range (360):
+...     trudy.forward(5)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("purple")
+>>> for i in range (360):
+...     trudy.forward(6)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("pink")
+>>> for i in range (360):
+...     trudy.forward(0.25)
+...     trudy.left(1)
+... 
+>>> trudy.pencolor("black")
+>>> for i in range (360):
+...     trudy.forward(7)
+...     trudy.left(1)
+... 
